@@ -5,7 +5,7 @@
     border: 1px solid #95A0A7;
     border-radius: 8px;
     padding-left: 40px;
-    box-shadow: -12px 12px  #FFE0B3;
+    box-shadow: -12px 12px #FFE0B3;
 }
 
 .form-title {
@@ -52,6 +52,7 @@
     line-height: 25px;
     letter-spacing: 0.0015em;
     color: #0E161A;
+    cursor: pointer;
 }
 
 .btn-submit:hover {

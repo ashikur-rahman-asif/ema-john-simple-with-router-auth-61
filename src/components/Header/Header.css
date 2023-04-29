@@ -16,3 +16,10 @@ nav.header a{
 nav.header a:hover{
     color: orange;
 }
+.text-white{
+    color: whitesmoke;
+    margin-left: 5px;
+}
+.btn-logout:hover{
+    background-color: orange;
+}

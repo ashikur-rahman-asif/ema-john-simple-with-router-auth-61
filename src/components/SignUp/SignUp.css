@@ -53,6 +53,7 @@
     line-height: 25px;
     letter-spacing: 0.0015em;
     color: #0E161A;
+    cursor: pointer;
 }
 
 .btn-submit:hover {
